@@ -15,6 +15,9 @@ namespace PhamDuyQuang785.Models
          [StringLength(50)]
          public string PDQName { get; set; }
          [Display(Name = "Giới tính")] 
-         public string PDQgender { get; set; }
+         public Boolean PDQgender { get; set; }
+    }public class StringProcessPDQ785 : PDQ0785
+    {
+        public string PDQName { get; set; }
     }
 }

@@ -170,3 +170,8 @@ E:\GitHub\VScode\PhamDuyQuang785\PhamDuyQuang785\obj\Debug\net5.0\Razor\Views\Co
 E:\GitHub\VScode\PhamDuyQuang785\PhamDuyQuang785\obj\Debug\net5.0\Razor\Views\CompanyPDQ785s\Details.cshtml.g.cs
 E:\GitHub\VScode\PhamDuyQuang785\PhamDuyQuang785\obj\Debug\net5.0\Razor\Views\CompanyPDQ785s\Edit.cshtml.g.cs
 E:\GitHub\VScode\PhamDuyQuang785\PhamDuyQuang785\obj\Debug\net5.0\Razor\Views\CompanyPDQ785s\Index.cshtml.g.cs
+E:\GitHub\VScode\PhamDuyQuang785\PhamDuyQuang785\obj\Debug\net5.0\Razor\Views\PDQ0785s\Create.cshtml.g.cs
+E:\GitHub\VScode\PhamDuyQuang785\PhamDuyQuang785\obj\Debug\net5.0\Razor\Views\PDQ0785s\Delete.cshtml.g.cs
+E:\GitHub\VScode\PhamDuyQuang785\PhamDuyQuang785\obj\Debug\net5.0\Razor\Views\PDQ0785s\Details.cshtml.g.cs
+E:\GitHub\VScode\PhamDuyQuang785\PhamDuyQuang785\obj\Debug\net5.0\Razor\Views\PDQ0785s\Edit.cshtml.g.cs
+E:\GitHub\VScode\PhamDuyQuang785\PhamDuyQuang785\obj\Debug\net5.0\Razor\Views\PDQ0785s\Index.cshtml.g.cs
