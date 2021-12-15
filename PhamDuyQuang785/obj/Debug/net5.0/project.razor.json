@@ -15624,6 +15624,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\GitHub\\VScode\\PhamDuyQuang785\\PhamDuyQuang785\\Views\\PDQ0785s\\Delete.cshtml",
+      "TargetPath": "Views\\PDQ0785s\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\GitHub\\VScode\\PhamDuyQuang785\\PhamDuyQuang785\\Views\\CompanyPDQ785s\\Index.cshtml",
       "TargetPath": "Views\\CompanyPDQ785s\\Index.cshtml",
       "FileKind": "mvc"
@@ -15631,6 +15636,11 @@
     {
       "FilePath": "e:\\GitHub\\VScode\\PhamDuyQuang785\\PhamDuyQuang785\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\GitHub\\VScode\\PhamDuyQuang785\\PhamDuyQuang785\\Views\\PDQ0785s\\Index.cshtml",
+      "TargetPath": "Views\\PDQ0785s\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15646,6 +15656,21 @@
     {
       "FilePath": "e:\\GitHub\\VScode\\PhamDuyQuang785\\PhamDuyQuang785\\Views\\CompanyPDQ785s\\Details.cshtml",
       "TargetPath": "Views\\CompanyPDQ785s\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\GitHub\\VScode\\PhamDuyQuang785\\PhamDuyQuang785\\Views\\PDQ0785s\\Create.cshtml",
+      "TargetPath": "Views\\PDQ0785s\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\GitHub\\VScode\\PhamDuyQuang785\\PhamDuyQuang785\\Views\\PDQ0785s\\Edit.cshtml",
+      "TargetPath": "Views\\PDQ0785s\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\GitHub\\VScode\\PhamDuyQuang785\\PhamDuyQuang785\\Views\\PDQ0785s\\Details.cshtml",
+      "TargetPath": "Views\\PDQ0785s\\Details.cshtml",
       "FileKind": "mvc"
     },
     {

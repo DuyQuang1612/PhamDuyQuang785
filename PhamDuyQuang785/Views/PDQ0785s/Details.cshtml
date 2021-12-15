@@ -1,0 +1,30 @@
+@model PhamDuyQuang785.Models.PDQ0785
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>PDQ0785</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PDQName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PDQName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PDQgender)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PDQgender)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.PDQid">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

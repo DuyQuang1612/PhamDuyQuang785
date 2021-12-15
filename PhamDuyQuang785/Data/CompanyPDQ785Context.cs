@@ -13,4 +13,6 @@ using PhamDuyQuang785.Models;
         }
 
         public DbSet<PhamDuyQuang785.Models.CompanyPDQ785> CompanyPDQ785 { get; set; }
+
+        public DbSet<PhamDuyQuang785.Models.PDQ0785> PDQ0785 { get; set; }
     }
