@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\VScode\\PhamDuyQuang785\\PhamDuyQuang785\\PhamDuyQuang785.csproj": {}
+    "E:\\GitHub\\DuyQuang1612\\PhamDuyQuang785\\PhamDuyQuang785\\PhamDuyQuang785.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\VScode\\PhamDuyQuang785\\PhamDuyQuang785\\PhamDuyQuang785.csproj": {
+    "E:\\GitHub\\DuyQuang1612\\PhamDuyQuang785\\PhamDuyQuang785\\PhamDuyQuang785.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\VScode\\PhamDuyQuang785\\PhamDuyQuang785\\PhamDuyQuang785.csproj",
+        "projectUniqueName": "E:\\GitHub\\DuyQuang1612\\PhamDuyQuang785\\PhamDuyQuang785\\PhamDuyQuang785.csproj",
         "projectName": "PhamDuyQuang785",
-        "projectPath": "E:\\GitHub\\VScode\\PhamDuyQuang785\\PhamDuyQuang785\\PhamDuyQuang785.csproj",
+        "projectPath": "E:\\GitHub\\DuyQuang1612\\PhamDuyQuang785\\PhamDuyQuang785\\PhamDuyQuang785.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\VScode\\PhamDuyQuang785\\PhamDuyQuang785\\obj\\",
+        "outputPath": "E:\\GitHub\\DuyQuang1612\\PhamDuyQuang785\\PhamDuyQuang785\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
